@@ -3,4 +3,3 @@ Just a class for counting time between two intervals. You can simply make CLI-ap
 
 #ToDo
 * Get rid of PHP DateRange and DateTime(maybe)
-* Make sample for CLI-run
